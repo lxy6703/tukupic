@@ -1,0 +1,61 @@
+{
+
+    "title": "7160pc版",
+
+    "url":"https://www.7160.com/",
+
+    "logo": "",
+
+    "listImg": "class.news_bom-left@tag.li",
+
+    "itemImgName": "tag.img.0@alt",
+
+    "itemImgUrl": "tag.img.0@src",
+
+    "pageUrl": "tag.a@href",
+
+    "totalPage": "class.page@tag.a.-1@href#(list_(\\d+)_)|(.html)",
+
+    "pageImgUrl": "class.picsbox picsboxcenter@tag.img@src",
+
+    "pageNextUrl": "class.itempage@tag.a.-1@href",
+
+    "pageTotalImg": "class.itempage@tag.a@text#((共)|(页:)|(页：))",
+
+    "tabs": [
+
+        {
+
+            "title": "靓丽车模",
+
+            "url": "lianglichemo/list_8_{index}.html"
+
+        },
+
+        {
+
+            "title": "校园美女",
+
+            "url": "xiaohua/list_6_{index}.html"
+
+        },
+
+        {
+
+            "title": "清纯美女",
+
+            "url": "qingchunmeinv/list_2_{index}.html"
+
+        },
+
+        {
+
+            "title": "美女明星",
+
+            "url": "meinvmingxing/list_5_{index}.html"
+
+        }
+
+    ]
+
+}
