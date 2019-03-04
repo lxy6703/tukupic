@@ -1,0 +1,123 @@
+[{
+    "title": "妹子图",
+    "url":"http://www.mzitu.com/",
+    "logo": "",
+    "listImg": "id.pins@tag.li",
+    "itemImgName": "tag.img.0@alt",
+    "itemImgUrl": "tag.img.0@data-original",
+    "pageUrl": "tag.a@href",
+    "totalPage": "class.page-numbers.-2@text",
+    "pageImgUrl": "class.main-image.0@tag.img@src",
+    "pageNextUrl": "class.pagenavi@tag.a.-1@href",
+    "pageTotalImg": "class.pagenavi@tag.a.-2@tag.span.0@text",
+    "tabs": [
+        {
+            "title": "首页",
+            "url": "http://www.mzitu.com/page/{index}/"
+        },
+        {
+            "title": "最热",
+            "url": "http://www.mzitu.com/hot/page/{index}/"
+        },
+        {
+            "title": "推荐",
+            "url": "http://www.mzitu.com/best/page/{index}/",
+            "totalPage": ""
+        },
+        {
+            "title": "性感妹子",
+            "url": "http://www.mzitu.com/xinggan/page/{index}/"
+        },
+        {
+            "title": "日本妹子",
+            "url": "http://www.mzitu.com/japan/page/{index}/"
+        },
+        {
+            "title": "台湾妹子",
+            "url": "http://www.mzitu.com/taiwan/page/{index}/"
+        },
+        {
+            "title": "清纯妹子",
+            "url": "http://www.mzitu.com/mm/page/{index}/"
+        }
+    ]
+},
+{
+    "title": "唯美图片",
+    "url": "http://www.umei.cc/",
+    "logo": "",
+    "listImg": "class.TypeList@tag.li",
+    "itemImgName": "tag.span@text",
+    "itemImgUrl": "tag.img.0@src",
+    "pageUrl": "tag.a@href",
+    "totalPage": "class.NewPages@tag.li.-1@tag.a@href#.htm",
+    "pageImgUrl": "class.ImageBody@tag.img@src",
+    "pageNextUrl": "class.NewPages@tag.li.-1@tag.a@href",
+    "pageTotalImg": "class.NewPages@tag.li.0@text#((共)|(页:)|(页：))",
+    "tabs": [
+        {
+            "title": "壁纸图片",
+            "url": "bizhitupian/{index}.htm"
+        },
+        {
+            "title": "唯美图片",
+            "url": "weimeitupian/{index}.htm"
+        },
+        {
+            "title": "头像图片",
+            "url": "touxiangtupian/{index}.htm"
+        },
+        {
+            "title": "搞笑图片",
+            "url": "gaoxiaotupian/{index}.htm"
+        },
+        {
+            "title": "动画图片",
+            "url": "katongdongman/{index}.htm"
+        },
+        {
+            "title": "风景图片",
+            "url": "tupiandaquan/fengjingtupian/{index}.htm"
+        }
+    ]
+},
+{
+    "title": "mm131",
+    "url":"http://www.mm131.com/",
+    "logo": "",
+    "listImg": "class.list-left public-box@tag.dd.!-1",
+    "itemImgName": "tag.img.0@alt",
+    "itemImgUrl": "tag.img.0@src",
+    "pageUrl": "tag.a@href",
+    "totalPage": "class.list-left public-box@tag.dd.-1@tag.a.-1@href#(list_(\\d+)_)|(.html)",
+    "pageImgUrl": "class.content-pic@tag.img@src",
+    "pageNextUrl": "class.content-page@tag.a.-1@href",
+    "pageTotalImg": "class.content-page@tag.a.-2@text",
+    "tabs": [
+        {
+            "title": "性感美女",
+            "url": "http://www.mm131.com/xinggan/list_6_{index+1}.html"
+        },
+        {
+            "title": "清纯美眉",
+            "url": "http://www.mm131.com/qingchun/list_1_{index+1}.html"
+        },
+        {
+            "title": "美女校花",
+            "url": "http://www.mm131.com/xiaohua/list_2_{index+1}.html"
+        },
+        {
+            "title": "性感车模",
+            "url": "http://www.mm131.com/chemo/list_3_{index+1}.html"
+        },
+        {
+            "title": "旗袍美女",
+            "url": "http://www.mm131.com/qipao/list_4_{index+1}.html"
+        },
+        {
+            "title": "明星写真",
+            "url": "http://www.mm131.com/mingxing/list_5_{index+1}.html"
+        }
+    ]
+}
+]
