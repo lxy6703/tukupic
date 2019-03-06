@@ -1,0 +1,137 @@
+[{
+  "title": "妹子图",
+  "url":"http://www.mzitu.com/",
+  "logo": "",
+  "listImg": "id.pins@tag.li",
+  "itemImgName": "tag.img.0@alt",
+  "itemImgUrl": "tag.img.0@data-original",
+  "pageUrl": "tag.a@href",
+  "totalPage": "class.page-numbers.-2@text",
+  "pageImgUrl": "class.main-image.0@tag.img@src",
+  "pageNextUrl": "class.pagenavi@tag.a.-1@href",
+  "pageTotalImg": "class.pagenavi@tag.a.-2@tag.span.0@text",
+  "tabs": [
+  {
+    "title": "首页",
+    "url": "http://www.mzitu.com/page/{index}/"
+  },
+  {
+    "title": "最热",
+    "url": "http://www.mzitu.com/hot/page/{index}/"
+  },
+  {
+    "title": "推荐",
+    "url": "http://www.mzitu.com/best/page/{index}/",
+    "totalPage": ""
+  },
+  {
+    "title": "性感妹子",
+    "url": "http://www.mzitu.com/xinggan/page/{index}/"
+  },
+  {
+    "title": "日本妹子",
+    "url": "http://www.mzitu.com/japan/page/{index}/"
+  },
+  {
+    "title": "台湾妹子",
+    "url": "http://www.mzitu.com/taiwan/page/{index}/"
+  },
+  {
+    "title": "清纯妹子",
+    "url": "http://www.mzitu.com/mm/page/{index}/"
+  }
+  ]
+},
+{"title":"2717","url":"https:\/\/www.2717.com\/","logo":"","listImg":"class.MeinvTuPianBox@tag.li","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.NewPages@tag.a.-1@href#(list_(\\d+)_)|(.html)","pageUrl":"tag.a.0@href","pageTotalImg":"class.page-tag oh@tag.a.0@text#((共)|(页:)|(页：))","pageImgUrl":"class.articleV4Body@tag.p@tag.a.0@tag.img@src","pageNextUrl":"class.articleV4Body@tag.p@tag.a.0@href","tabs":[{"title":"美女图片","url":"https:\/\/www.2717.com\/ent\/meinvtupian\/list_11_{index}.html"},{"title":"美食图片","url":"https:\/\/www.2717.com\/meishitupian\/list_25_{index}.html"},{"title":"CosPlay","url":"https:\/\/www.2717.com\/game\/cosplaymeitu\/list_20_{index}.html","listImg":"class.pic_list_box w1200@tag.li"},{"title":"靓丽模特","url":"https:\/\/www.2717.com\/ent\/lianglimeimo\/list_12_{index}.html"},{"title":"人体艺术","url":"https:\/\/www.2717.com\/ent\/rentiyishu\/list_32_{index}.html"}]},
+{"title":"居然美女","url":"https:\/\/www.zbjuran.com\/","logo":"https:\/\/www.zbjuran.com\/img\/topGsm.gif","listImg":"class.pic-list mb20 list@tag.li","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@data-original","totalPage":"class.pages@tag.a.-1@href#(list_(\\d+)_)|(.html)","pageUrl":"class.picbox@tag.b.0@tag.a.0@href","pageTotalImg":"class.page@tag.li.0@text#((共)|(页:)|(页：))","pageImgUrl":"class.picbox@tag.img@src","pageNextUrl":"class.page@tag.li.-1@tag.a@href","tabs":[{"title":"性感美女","url":"https:\/\/www.zbjuran.com\/mei\/xinggan\/list_13_{index}.html"},{"title":"清纯美女","url":"https:\/\/www.zbjuran.com\/mei\/qingchun\/list_14_{index}.html"},{"title":"明星写真","url":"https:\/\/www.zbjuran.com\/mei\/xinggan\/list_16_{index}.html"},{"title":"校花美女","url":"https:\/\/www.zbjuran.com\/mei\/xiaohua\/list_15_{index}.html"}]},
+{"title":"每日桌面","url":"http:\/\/www.win4000.com\/","logo":"http:\/\/static.win4000.com\/images\/favicon.ico","listImg":"class.list_cont Left_list_cont  Left_list_cont2@tag.li","itemImgName":"tag.img.0@alt","itemImgUrl":"tag.img.0@data-original","totalPage":"class.pages@tag.a.-2@text","pageUrl":"tag.a@href","pageTotalImg":"class.ptitle@tag.em@text","pageImgUrl":"class.main-wrap@tag.img.0@url","pageNextUrl":"class.pic-next-img@tag.a@href","tabs":[{"title":"性感美女","url":"http:\/\/www.win4000.com\/meinvtag4_{index}.html"},{"title":"CosPlay","url":"http:\/\/www.win4000.com\/meinvtag26_{index}.html"},{"title":"游戏美女","url":"http:\/\/www.win4000.com\/meinvtag7_{index}.html"},{"title":"空姐学生","url":"http:\/\/www.win4000.com\/meinvtag6_{index}.html"},{"title":"美女手机壁纸","url":"http:\/\/www.win4000.com\/mobile_2340_0_0_{index}.html"},{"title":"明星手机壁纸","url":"http:\/\/www.win4000.com\/mobile_2338_0_0_{index}.html"}]},
+{"title":"美图","url":"https:\/\/www.meituri.com\/","logo":"https:\/\/img.meituri.com\/ico.ico","listImg":"class.hezi.1@tag.li","itemImgName":"class.biaoti@tag.a@text","itemImgUrl":"tag.img.0@src","totalPage":"id.pages@tag.a.-2@text","pageUrl":"tag.a.0@href","pageTotalImg":"id.pages@tag.a.-2@text","pageImgUrl":"class.content@tag.img@src","pageNextUrl":"id.pages@tag.a.-1@href","tabs":[{"title":"韩国","url":"https:\/\/www.meituri.com\/hanguo\/{index+1}.html"},{"title":"国内","url":"https:\/\/www.meituri.com\/zhongguo\/{index+1}.html"},{"title":"日本","url":"https:\/\/www.meituri.com\/riben\/{index+1}.html"},{"title":"台湾","url":"https:\/\/www.meituri.com\/taiwan\/{index+1}.html"},{"title":"欧美","url":"https:\/\/www.meituri.com\/oumei\/{index+1}.html"},{"title":"泰国","url":"https:\/\/www.meituri.com\/taiguo\/{index+1}.html"}]},
+{"title":"7160","url":"https:\/\/www.7160.com\/","logo":"","listImg":"class.news_bom-left@tag.li","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.page@tag.a.-1@href#(list_(\\d+)_)|(.html)","pageUrl":"tag.a@href","pageTotalImg":"class.itempage@tag.a.0@text#((共)|(页:)|(页：))","pageImgUrl":"class.picsbox picsboxcenter@tag.img@src","pageNextUrl":"class.itempage@tag.a.-1@href","tabs":[{"title":"靓丽车模","url":"https:\/\/www.7160.com\/lianglichemo\/list_8_{index}.html"},{"title":"校园美女","url":"https:\/\/www.7160.com\/xiaohua\/list_6_{index}.html"},{"title":"清纯美女","url":"https:\/\/www.7160.com\/qingchunmeinv\/list_2_{index}.html"},{"title":"美女明星","url":"https:\/\/www.7160.com\/meinvmingxing\/list_5_{index}.html"}]},
+{"title":"艾乐美女","url":"http:\/\/www.ixiau.com\/","logo":"","listImg":"class.imainbox@li","itemImgName":"class.imbimg@tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.wlistpages@tag.a.-1@href#(http:\/\/www.ixiau.com\/|(\\D+)|\/index_)|(.html)","pageUrl":"tag.a@href","pageTotalImg":"class.wlinkpages@tag.a.-1@href#(\\d+_)|(.html)","pageImgUrl":"class.contentpic.0@tag.img@src","pageNextUrl":"class.wlinkpages@tag.a.-2@href","tabs":[{"title":"性感美女","url":"http:\/\/www.ixiau.com\/sexy\/index_{index+1}.html"},{"title":"清纯美女","url":"http:\/\/www.ixiau.com\/mm\/index_{index+1}.html"},{"title":"日本美女","url":"http:\/\/www.ixiau.com\/japan\/index_{index+1}.html"},{"title":"韩国美女","url":"http:\/\/www.ixiau.com\/korea\/index_{index+1}.html"},{"title":"CosPlay","url":"http:\/\/www.ixiau.com\/cosplay"},{"title":"动漫美女","url":"http:\/\/www.ixiau.com\/dongman\/"}]},
+{"title":"6688美女","url":"http:\/\/www.the6688.com\/","logo":"http:\/\/img10.biao12.com\/pc\/content\/images\/favicon.ico","listImg":"class.thumbnail","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.pages@tag.a.-2@text","pageUrl":"tag.a.0@href","pageTotalImg":"class.pages.0@tag.a.-2@text","pageImgUrl":"class.contes.0@tag.img@src","pageNextUrl":"class.contes@tag.a@href","tabs":[{"title":"丝袜美女","url":"http:\/\/www.the6688.com\/siwameinv\/list_10_{index}.html"},{"title":"古装美女","url":"http:\/\/www.the6688.com\/guzhuangmeinv\/list_11_{index}.html"},{"title":"长腿美女","url":"http:\/\/www.the6688.com\/changtuimeinv\/list_12_{index}.html"},{"title":"性感美女","url":"http:\/\/www.the6688.com\/sexmv\/list_1_{index}.html"},{"title":"比基尼美女","url":"http:\/\/www.the6688.com\/rhmeinv\/list_2_{index}.html"},{"title":"高清美女","url":"http:\/\/www.the6688.com\/gaoqing\/list_5_{index}.html"},{"title":"性感车模","url":"http:\/\/www.the6688.com\/meitui\/list_3_{index}.html"},{"title":"美女自拍","url":"http:\/\/www.the6688.com\/mote\/list_4_{index}.html"},{"title":"清纯美女","url":"http:\/\/www.the6688.com\/xiaoqingxin\/list_6_{index}.html"},{"title":"明星美女","url":"http:\/\/www.the6688.com\/mingxing\/list_7_{index}.html"},{"title":"推荐美女","url":"http:\/\/www.the6688.com\/top\/list_9_{index}.html"},{"title":"秀人VIP","url":"http:\/\/www.the6688.com\/pingmian\/list_8_{index}.html"}]},
+{"title":"美图分类","url":"https:\/\/www.meituri.com\/","logo":"https:\/\/img.meituri.com\/ico.ico","listImg":"class.hezi@tag.li","itemImgName":"class.biaoti@tag.a@text","itemImgUrl":"tag.img.0@src","totalPage":"id.pages@tag.a.-2@text","pageUrl":"tag.a.0@href","pageTotalImg":"id.pages@tag.a.-2@text","pageImgUrl":"class.content@tag.img@src","pageNextUrl":"id.pages@tag.a.-1@href","tabs":[{"title":"性感","url":"https:\/\/www.meituri.com\/s\/35\/index_{index}.html"},{"title":"女神","url":"https:\/\/www.meituri.com\/s\/59\/index_{index}.html"},{"title":"比基尼","url":"https:\/\/www.meituri.com\/s\/49\/index_{index}.html"},{"title":"唯美","url":"https:\/\/www.meituri.com\/s\/54\/index_{index}.html"},{"title":"正妹","url":"https:\/\/www.meituri.com\/s\/83\/index_{index}.html"},{"title":"校服","url":"https:\/\/www.meituri.com\/s\/13\/index_{index}.html"},{"title":"萌妹","url":"https:\/\/www.meituri.com\/s\/149\/index_{index}.html"},{"title":"牛仔","url":"https:\/\/www.meituri.com\/s\/24\/index_{index}.html"},{"title":"外拍","url":"https:\/\/www.meituri.com\/s\/74\/index_{index}.html"},{"title":"极品","url":"https:\/\/www.meituri.com\/s\/47\/index_{index}.html"},{"title":"丝袜","url":"https:\/\/www.meituri.com\/s\/15\/index_{index}.html"},{"title":"蕾丝","url":"https:\/\/www.meituri.com\/s\/16\/index_{index}.html"},{"title":"美腿","url":"https:\/\/www.meituri.com\/s\/31\/index_{index}.html"},{"title":"性感少女","url":"https:\/\/www.meituri.com\/s\/186\/index_{index}.html"},{"title":"日本少女","url":"https:\/\/www.meituri.com\/s\/80\/index_{index}.html"},{"title":"日本妹子","url":"https:\/\/www.meituri.com\/s\/150\/index_{index}.html"}]},
+{
+  "title": "唯美图片",
+  "url": "http://www.umei.cc/",
+  "logo": "",
+  "listImg": "class.TypeList@tag.li",
+  "itemImgName": "tag.span@text",
+  "itemImgUrl": "tag.img.0@src",
+  "pageUrl": "tag.a@href",
+  "totalPage": "class.NewPages@tag.li.-1@tag.a@href#.htm",
+  "pageImgUrl": "class.ImageBody@tag.img@src",
+  "pageNextUrl": "class.NewPages@tag.li.-1@tag.a@href",
+  "pageTotalImg": "class.NewPages@tag.li.0@text#((共)|(页:)|(页：))",
+  "tabs": [
+  {
+    "title": "壁纸图片",
+    "url": "bizhitupian/{index}.htm"
+  },
+  {
+    "title": "唯美图片",
+    "url": "weimeitupian/{index}.htm"
+  },
+  {
+    "title": "头像图片",
+    "url": "touxiangtupian/{index}.htm"
+  },
+  {
+    "title": "搞笑图片",
+    "url": "gaoxiaotupian/{index}.htm"
+  },
+  {
+    "title": "动画图片",
+    "url": "katongdongman/{index}.htm"
+  },
+  {
+    "title": "风景图片",
+    "url": "tupiandaquan/fengjingtupian/{index}.htm"
+  }
+  ]
+},
+{
+  "title": "mm131",
+  "url":"http://www.mm131.com/",
+  "logo": "",
+  "listImg": "class.list-left public-box@tag.dd.!-1",
+  "itemImgName": "tag.img.0@alt",
+  "itemImgUrl": "tag.img.0@src",
+  "pageUrl": "tag.a@href",
+  "totalPage": "class.list-left public-box@tag.dd.-1@tag.a.-1@href#(list_(\\d+)_)|(.html)",
+  "pageImgUrl": "class.content-pic@tag.img@src",
+  "pageNextUrl": "class.content-page@tag.a.-1@href",
+  "pageTotalImg": "class.content-page@tag.a.-2@text",
+  "tabs": [
+  {
+    "title": "性感美女",
+    "url": "http://www.mm131.com/xinggan/list_6_{index+1}.html"
+  },
+  {
+    "title": "清纯美眉",
+    "url": "http://www.mm131.com/qingchun/list_1_{index+1}.html"
+  },
+  {
+    "title": "美女校花",
+    "url": "http://www.mm131.com/xiaohua/list_2_{index+1}.html"
+  },
+  {
+    "title": "性感车模",
+    "url": "http://www.mm131.com/chemo/list_3_{index+1}.html"
+  },
+  {
+    "title": "旗袍美女",
+    "url": "http://www.mm131.com/qipao/list_4_{index+1}.html"
+  },
+  {
+    "title": "明星写真",
+    "url": "http://www.mm131.com/mingxing/list_5_{index+1}.html"
+  }
+  ]
+},
+{"title":"177漫画","url":"http:\/\/www.177pic001.info\/","logo":"https:\/\/www.easyicon.net\/download\/ico\/1188468\/128\/","listImg":"class.post_box","itemImgName":"class.c-con@tag.a@title","itemImgUrl":"tag.img@src","totalPage":"class.last@href#http:\/\/www.177pic001.info\/html\/category\/(\\D+)\/page\/","pageUrl":"class.c-con@tag.a@href","pageTotalImg":"class.single-navi.-1@text","pageImgUrl":"tag.p@tag.img@src","pageNextUrl":"class.wp-pagenavi@tag.a.-1@href","tabs":[{"title":"中文漫画","url":"http:\/\/www.177pic001.info\/html\/category\/tt\/page\/{index}"},{"title":"日文漫画","url":"http:\/\/www.177pic001.info\/html\/category\/jj\/page\/{index}"},{"title":"全彩CG","url":"http:\/\/www.177pic001.info\/html\/category\/cg\/page\/{index}"},{"title":"动漫观看","url":"http:\/\/www.177pic001.info\/html\/category\/bt\/page\/{index}"}]},
+{"title":"瞎扯","url":"https:\/\/xcxsd.org\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"class.pic-img","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.pagination@tag.li.-1@tag.a@href#(https:\/\/xcxsd.org\/tupian\/)|(\/)","pageUrl":"tag.a@href","pageTotalImg":"class.nextpagebar@tag.a.-1@href#(https:\/\/xcxsd.org\/(\\D+)\/(\\d+)_)|(.html)","pageImgUrl":"class.text@tag.img@src","pageNextUrl":"id.nextpage@tag.a@href","tabs":[{"title":"养眼图片","url":"https:\/\/xcxsd.org\/tupian\/{index}\/"},{"title":"明星图片","url":"https:\/\/xcxsd.org\/mingxing\/{index}\/"},{"title":"高清套图","url":"https:\/\/xcxsd.org\/taotu\/{index}\/"},{"title":"高清壁纸","url":"https:\/\/xcxsd.org\/bizhi\/{index}\/"}]},
+{"title":"3GIF","url":"https:\/\/www.3sgif.com\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"class.excerpt excerpt-multi","itemImgName":"tag.a.0@title","itemImgUrl":"tag.img.0@data-original","totalPage":"class.pagination pagination-multi@tag.a.-1@href#(https:\/\/www.3sgif.com\/(\\D+)\/page\/)|(\/)","pageUrl":"tag.a.1@href","pageTotalImg":"","pageImgUrl":"class.article-content@tag.img@src","pageNextUrl":"tag.a@href","tabs":[{"title":"GIF出处","url":"https:\/\/www.3sgif.com\/gif\/page\/{index}\/"}]},
+{"title":"无翼鸟","url":"http:\/\/m.wwyiniao.com\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"class.list@li","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.page@tag.a.-1@href#(\/(\\D+)\/index_)|(.html)","pageUrl":"tag.a@href","pageTotalImg":"class.pagearti@tag.a.-1@href#(\/a\/(\\d+)_)|(.html)","pageImgUrl":"class.cont.0@tag.img@src","pageNextUrl":"class.cont.0@tag.a.2@href","tabs":[{"title":"GIF动图","url":"http:\/\/m.wwyiniao.com\/gif\/index_{index+1}.html"},{"title":"色系漫画","url":"http:\/\/m.wwyiniao.com\/sexi\/index.html"},{"title":"里番漫画","url":"http:\/\/m.wwyiniao.com\/lifan\/index.html"},{"title":"无翼鸟漫画","url":"http:\/\/m.wwyiniao.com\/wuyiniao\/index_{index+1}.html"},{"title":"少女漫画","url":"http:\/\/m.wwyiniao.com\/shaonvmanhua\/index_{index+1}.html"}]},
+{"title":"宅客","url":"https:\/\/www.zhaikeba.com\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"tag.article","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@data-src","totalPage":"class.pagination@tag.span.-1@text#(共 )| (页)","pageUrl":"tag.a@href","pageTotalImg":"class.article-paging@tag.span.-1@text","pageImgUrl":"tag.article@tag.img@src","pageNextUrl":"class.article-paging@tag.a.1@href","tabs":[{"title":"内涵GIF","url":"https:\/\/www.zhaikeba.com\/category\/neihan\/page\/{index}"}]},
+{"title":"动态图番","url":"https:\/\/fangif.com\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"class.archive-list","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.nav-links@tag.a.-1@href#(https:\/\/fangif.com\/category-(\\d+)_)|(.html)","pageUrl":"tag.a.0@href","pageTotalImg":"id.dm-fy@tag.li.-2@tag.a@text","pageImgUrl":"class.single-content@tag.img@src","pageNextUrl":"id.dm-fy@tag.li.-1@tag.a@href","tabs":[{"title":"动态图出处","url":"https:\/\/fangif.com\/category-2_{index}.html"},{"title":"邪恶动态图","url":"https:\/\/fangif.com\/category-1_{index}.html"},{"title":"SW番号","url":"https:\/\/fangif.com\/category-6_{index}.html"},{"title":"动态图番号","url":"https:\/\/fangif.com\/category-5_{index}.html"},{"title":"邪恶图片","url":"https:\/\/fangif.com\/category-4_{index}.html"}]},
+]
