@@ -55,9 +55,9 @@
   "url": "http://www.umei.cc/",
   "logo": "",
   "listImg": "class.TypeList@tag.li",
-  "itemImgName": "tag.span@text",
+  "itemImgName": "tag.a.0@text",
   "itemImgUrl": "tag.img.0@src",
-  "pageUrl": "tag.a@href",
+  "pageUrl": "tag.a.0@href",
   "totalPage": "class.NewPages@tag.li.-1@tag.a@href#.htm",
   "pageImgUrl": "class.ImageBody@tag.img@src",
   "pageNextUrl": "class.NewPages@tag.li.-1@tag.a@href",
@@ -127,5 +127,7 @@
     "url": "http://www.mm131.com/mingxing/list_5_{index+1}.html"
   }
   ]
-}
+},
+{"title":"瞎扯","url":"https:\/\/xcxsd.org\/","logo":"https:\/\/static.easyicon.net\/preview\/123\/1231858.gif","listImg":"class.pic-img","itemImgName":"tag.img@alt","itemImgUrl":"tag.img@src","totalPage":"class.pagination@tag.li.-1@tag.a@href#(https:\/\/xcxsd.org\/tupian\/)|(\/)","pageUrl":"tag.a@href","pageTotalImg":"class.nextpagebar@tag.a.-1@href#(https:\/\/xcxsd.org\/(\\D+)\/(\\d+)_)|(.html)","pageImgUrl":"class.text@tag.img@src","pageNextUrl":"id.nextpage@tag.a@href","tabs":[{"title":"养眼图片","url":"https:\/\/xcxsd.org\/tupian\/{index}\/"},{"title":"明星图片","url":"https:\/\/xcxsd.org\/mingxing\/{index}\/"},{"title":"高清套图","url":"https:\/\/xcxsd.org\/taotu\/{index}\/"},{"title":"高清壁纸","url":"https:\/\/xcxsd.org\/bizhi\/{index}\/"}]},
+{"title":"7160手机版","url":"https:\/\/m.7160.com\/","logo":"","listImg":"class.libox","itemImgName":"tag.p@text","itemImgUrl":"tag.img@lazysrc","totalPage":"class.info.0@tag.b@text","pageUrl":"tag.a.0@href","pageTotalImg":"","pageImgUrl":"class.arcmain@tag.img@src","pageNextUrl":"class.arcmain@tag.a.0@href","tabs":[{"title":"性感模特","url":"https:\/\/m.7160.com\/xingganmote\/list_4_{index}.html"},{"title":"唯美图片","url":"https:\/\/m.7160.com\/weimeitupian\/list_13_{index}.html"},{"title":"清纯美女","url":"https:\/\/m.7160.com\/qingchunmeinv\/list_2_{index}.html"},{"title":"校园美女","url":"https:\/\/m.7160.com\/xiaohua\/list_6_{index}.html"},{"title":"靓丽车模","url":"https:\/\/m.7160.com\/lianglichemo\/list_8_{index}.html"},{"title":"欧美美女","url":"https:\/\/m.7160.com\/oumeimeinv\/list_12_{index}.html"},{"title":"日韩美女","url":"https:\/\/m.7160.com\/rihanmeinv\/list_10_{index}.html"},{"title":"Cosplay","url":"https:\/\/m.7160.com\/Cosplay\/list_9_{index}.html"},{"title":"娱乐八卦","url":"https:\/\/m.7160.com\/yulebagua\/list_7_{index}.html"},{"title":"美女明星","url":"https:\/\/m.7160.com\/meinvmingxing\/list_5_{index}.html"},{"title":"风景图片","url":"https:\/\/m.7160.com\/fengjing\/list_14_{index}.html"},{"title":"美食图片","url":"https:\/\/m.7160.com\/meishitupian\/list_15_{index}.html"}]},
 ]
